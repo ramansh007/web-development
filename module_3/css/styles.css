@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Red Rose', cursive;
+
+}
+html {
+  scroll-behavior: smooth;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+
+  background-color:
+}
+body{
+  background-color: #B3D63C
+}
+h3{
+  text-align:center;
+
+}
+.navbar-brand{
+  font-size: 150%;
+  font-style: italic;
+}
+.para{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-bottom:  15px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #92B029
+
+
+
+
+}
+.navbar{
+  background-color:#597202;
+  padding: 15px;
+}
